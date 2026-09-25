@@ -18,10 +18,10 @@ Building AI/ML projects for fun — LLM agents, prediction models, and automatio
 ## 📌 Featured Projects
 
 - **[AI Project Manager](https://github.com/JAIMINRSOJITRA/AI-Project-Manager-Meeting-Notes-to-Structured-Tasks-using-LLMs)** — Converts meeting notes into structured tasks using LLMs
-- **[LangGraph Research Assistant](https://github.com/JAIMINRSOJITRA/langgrpah-reserch-assistent-)** — Research assistant agent built with LangGraph
-- **[Newsletter Research Agent](https://github.com/JAIMINRSOJITRA/newsletter-reserch-agent-)** — AI agent that generates newsletters
-- **[Loan Approval Prediction](https://github.com/JAIMINRSOJITRA/LoanappovalPredction)** — ML model predicting loan approval probability
-- **[House Price Prediction](https://github.com/JAIMINRSOJITRA/Housepricepredctionproject)** — ML model predicting house prices from dataset features
+- **[LangGraph Research Assistant](https://github.com/JAIMINRSOJITRA/langgraph-research-assistant)** — Research assistant agent built with LangGraph
+- **[Newsletter Research Agent](https://github.com/JAIMINRSOJITRA/newsletter-research-agent)** — AI agent that generates newsletters
+- **[Loan Approval Prediction](https://github.com/JAIMINRSOJITRA/loan-approval-prediction)** — ML model predicting loan approval probability
+- **[House Price Prediction](https://github.com/JAIMINRSOJITRA/house-price-prediction)** — ML model predicting house prices from dataset features
 
 ## 📫 Reach me
 
