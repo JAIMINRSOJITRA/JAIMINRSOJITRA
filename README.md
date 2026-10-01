@@ -36,6 +36,9 @@ B.Tech student building AI/ML projects for fun — LLM agents, prediction models
 
 **Frontend**
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ## 📌 Projects
 
@@ -50,6 +53,7 @@ B.Tech student building AI/ML projects for fun — LLM agents, prediction models
 | [House Price Prediction](https://github.com/JAIMINRSOJITRA/house-price-prediction) | XGBoost regression pipeline + Streamlit app estimating property prices |
 | [Stock Market Prediction](https://github.com/JAIMINRSOJITRA/stock-market-prediction) | 18-model ensemble (XGBoost/LightGBM/RF/SVM) predicting NSE stock BUY/SELL signals |
 | [Spam Detection](https://github.com/JAIMINRSOJITRA/spam-detection-project) | TF-IDF + Logistic Regression SMS spam classifier |
+| [Clothes Store (React)](https://github.com/JAIMINRSOJITRA/clothes-store-react) | Clothing e-commerce storefront with cart, built with React, TypeScript and Tailwind CSS |
 
 ## 📊 GitHub Stats
 
